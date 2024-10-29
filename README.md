@@ -9,3 +9,7 @@
 
 ### Adapted from:
 - https://www.kaggle.com/code/anitarostami/time-series-forecasting-lstm-in-stock-analysis
+
+
+### Requirements:
+`pip install yfinance==0.2.40`
