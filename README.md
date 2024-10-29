@@ -1,8 +1,9 @@
 # Time Series Forecasting for Stock Analysis
-
+-----------------------------------------------------
 ### Requirements:
 `pip install yfinance==0.2.40`
 
+-----------------------------------------------------
 ### Created by:
 - Bernice Lau
 - Brent Nakashima
