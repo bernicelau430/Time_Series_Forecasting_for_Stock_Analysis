@@ -1,4 +1,4 @@
-# Time Series Forecasting for Stock Analysis
+# Comparing AI Models on Time Series Forecasting for Stock Prices
 -----------------------------------------------------
 ### Requirements:
 `pip install yfinance==0.2.40`
